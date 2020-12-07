@@ -67,7 +67,7 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 ---
 ### You can checkout my blogs :loudspeaker: 
 
-[![Pritom Writes](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
+[![Pritom Writes](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@das.pritom175/the-motivation-machine-how-to-be-stronger-than-your-strongest-excuse-2161950dd083)
 
 
 ---
