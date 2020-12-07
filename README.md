@@ -1,7 +1,9 @@
 <h1 align="center"> 👋, I'm Pritom</h1>
 <h3 align="center">My high Information Gain may Inspire your Decision Tree!</h3>
 I am a Plumber of Data Engineering and Cloud Computing :cloud:  :wink:
+---
 
+---
  
  🔭 I’m planning for a Project **Resume and Interview Scheduling Chatbot**.
  
@@ -65,9 +67,6 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 
 
 ---
-### You can checkout my blogs :loudspeaker: 
-
-[![Pritom Writes](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@das.pritom175/the-motivation-machine-how-to-be-stronger-than-your-strongest-excuse-2161950dd083)
 
 
 ---
