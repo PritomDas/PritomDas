@@ -1,7 +1,6 @@
 <h1 align="center"> 👋, I'm Pritom</h1>
 <h3 align="center">My high Information Gain may Inspire your Decision Tree!</h3>
 I am a Plumber of Data Engineering and Cloud Computing :cloud:  :wink:
----
 
 ---
  
