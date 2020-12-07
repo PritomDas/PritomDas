@@ -1,5 +1,58 @@
 <h1 align="center"> I'm Pritom</h1>
 <h3 align="center">My high Information Gain may Inspire your Decision Tree!</h3>
+I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
+ 
+ 🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
+ 
+ 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
+ 
+ :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
+ 
+ 👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
+ 
+ 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
+ 
+ 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
+
+
+![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
+
+
+---
+
+
+### Tech & Tools Preference
+
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
+<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+<img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
+
+### Other Languages I know
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
+
+Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
+
+---
+
 
 ### You can find in me in the web 🌍
 [<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -8,115 +61,30 @@
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanc55" alt="aryanc55" /> </p>
-
-- 🔭 I’m currently working on **CV/NLP problems**
-
-- 🌱 I’m currently learning **Docker**
-
-- 👯 I’m looking to collaborate on **Research projects/AI product development related to core-ML,CV and NLP**
-
-- 👨‍💻 All of my projects are available at [Where else than Github](https://github.com/aryanc55)
-
-- 📝 I regulary write articles on [Machine Learning and stuff](https://medium.com/@aryanc55)
-
-- 💬 Ask me about **Anything and Everything**
-
-- 📫 How to reach me **aryanc55@gmail.com**
-
-- ⚡ Fun fact **The only special thing about me is I am left-handed :D**
-
-<details>
-
-<summary>A Little More ABout ME!(click to expand)</summary>
-<p align="left">  
-<strong> Strong engineering professional with a B.tech focused on Information Technology from AJAY
-KUMAR GARG ENGINEERING COLLEGE. Research-oriented, interested in Machine Learning, skilled in
-Github, Big Data basics (setup/adminitration), SQL, Linux along with strong theoratical basics in DSA, operating system, and computer networks. 
-</strong></p>  
-
-</details>
+<br/>
 
 
+---
+### You can checkout my blogs :loudspeaker: 
 
-#### Machine Learning Hackathons:
+[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
 
-- Ecommerce price prediction [MachineHack](https://www.machinehack.com/hackathons/ecommerce_price_prediction_weekend_hackathon_8) [Code](https://github.com/aryanc55/MachineHackE-Commerce) *Rank-14*
+[Add your blogs to your github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs) 
 
-- Glass quality prediction [MachineHack](https://www.machinehack.com/hackathons/glass_quality_prediction_weekend_hackathon_6)[Code](https://github.com/aryanc55/MachinehackGlassQualityPrediction) *Rank-21*
+---
 
-- HackerEarth Predict Gift Prices [HackerEarth](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-price-good-friday-gifts/) [Code](https://github.com/aryanc55/HackerEarthPredictGiftPrices) *Rank-27*
+Let's connect 👨‍💻 and forge the future together.😁✌
 
-<details>
-<summary>Keeping Track of other hackathons </summary>
+**Check the Repositories and don't forget to give a star.** 👇
 
-*Machine Hack*
+:star: From [Souravdey777](https://github.com/Souravdey777)
 
-- Odi match winner [MachineHack](https://www.machinehack.com/hackathons/odi_match_winner_weekend_hackathon_9)[Code](https://github.com/aryanc55/MachineHackODIMatchWinner) *Rank-41*
-
-- Food quality assessment women in ai hackathon [MachineHack](https://www.machinehack.com/hackathons/food_quality_assessment_women_in_ai_hackathon) [Code](https://github.com/aryanc55/MachineHackFoodQuality)  *Rank-49*
-
-- Used electronics price prediction [MachineHack](https://www.machinehack.com/hackathons/used_electronics_price_prediction_weekend_hackathon_7) [Code](https://github.com/aryanc55/MachineHackElectronicPrice) *Rank-61*
-
-
-*HackerEarth*
-
-- Yet to participate/upload
-
-*Kaggle*
-- Yet to participate/upload
-
-*Zindi*
-
-- Yet to participate/upload
-
-</details>
-
-#### Offline Hackathons:
-
-- Smart India Hackathon 2018 (Team Leader) 
-  - [SIH2018](https://www.sih.gov.in/sih2018Software#disSIH2)
-  - [Project](https://www.sih.gov.in/sih2018Software#disSIH2) -ML model only
-
-#### Research work:
-
-- On the Learning Machine with Amplificatory Neuron in Complex Domain 
-  - [Paper](https://link.springer.com/article/10.1007/s13369-020-04692-3)
-  - [Journal Springer,Arab J Sci Eng (2020)](https://www.springer.com/journal/13369) 
-  - DOI: https://doi.org/10.1007/s13369-020-04692-3 
-
-  *working on*
-- Quaternionic domain multiplicative neuron
-- Template Based OCR 
-
-
-
-#### Tools I Know/Used:
-
-<p align="left">
-  
-  <img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> 
-  <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="20" height="20"/>
-  
-</p>  
-
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aryanc55&&show_icons=true&theme=radical&line_height=27&v=5" alt="Aryan's GitHub Stats" /> 
-</p>
-
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanc55&theme=radical&layout=compact" />
-</p>
-
+[website]: https://souravdey777.github.io/Portfolio/
+[twitter]: https://twitter.com/Souravdey777
+[youtube]: https://youtube.com/
+[instagram]: https://www.instagram.com/souravdey777/
+[linkedin]: https://www.linkedin.com/in/sourav-dey/
+[medium]: https://medium.com/@Souravdey777/
 
 #### My Projects:
 <p align="center">
@@ -126,5 +94,3 @@ Github, Big Data basics (setup/adminitration), SQL, Linux along with strong theo
 
 
 
-
-⭐️ From [aryanc55](https://github.com/aryanc55)
