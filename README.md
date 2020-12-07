@@ -48,9 +48,9 @@ I am a Plumber of Data Engineering and Cloud Computing :cloud:  :wink:
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PritomDas&show_icons=true&hide_border=true)
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
+Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/PritomDas)
 
 ---
 
