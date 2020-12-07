@@ -1,13 +1,13 @@
 <h1 align="center"> I'm Pritom</h1>
 <h3 align="center">My high Information Gain may Inspire your Decision Tree!</h3>
 I am a Plumber of Data Engineering and Cloud Computing :cloud:  :wink:
+
  
  🔭 I’m planning for a Project **Resume and Interview Scheduling Chatbot**.
  
  🌱 I’m currently preparing for AWS Solutions Architect and CompTia Security+
  
- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
- 
+
  👯 I’m looking to collaborate for a helping in building Data Pipelines and Cloud Infrastructures.
  
  🤔 I’m looking for Cloud Security related full time positions.
