@@ -58,20 +58,11 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 ### You can find in me in the web 🌍
 [<img align="left" alt="PritomDas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="PritomDas | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="PritomDas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="PritomDas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="PritomDas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br/>
-
-
----
-
-
----
-
 Let's connect 👨‍💻 and forge the future together.😁✌
-
+---
 
 [website]: https://pritom.uwu.ai/
 [instagram]: https://www.instagram.com/yours_truly_pritom/
