@@ -1,6 +1,6 @@
 <h1 align="center"> I'm Pritom</h1>
 <h3 align="center">My high Information Gain may Inspire your Decision Tree!</h3>
-I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
+I am a Plumber of Data Engineering and Cloud Computing :cloud:  :wink:
  
  🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
  
