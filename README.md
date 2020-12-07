@@ -24,10 +24,11 @@ I am a Plumber of Data Engineering and Cloud Computing :cloud:  :wink:
 
 #### Research work:
 
-- Retinal based Automated Healthcare Framework via Deep Learning 
+- On the Learning Machine with Amplificatory Neuron in Complex Domain 
   - [Paper](https://ieeexplore.ieee.org/document/8752994)
-  - [Journal Springer,Arab J Sci Eng (2020)](https://www.springer.com/journal/13369) 
-  - DOI: https://doi.org/10.1007/s13369-020-04692-3 
+  - [International Conference on Green Computing and Internet of Things (ICGCIoT)](https://ieeexplore.ieee.org/xpl/conhome/8743504/proceeding) 
+  - DOI: https://doi.org/10.1109/ICGCIoT.2018.8752994 
+
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PritomDas&show_icons=true&hide_border=true)
