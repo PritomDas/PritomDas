@@ -43,7 +43,6 @@ I am a Plumber of Data Engineering and Cloud Computing :cloud:  :wink:
 [<img align="left" alt="PritomDas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br/>
 
-Let's connect 👨‍💻 and forge the future together.😁✌
 
 ---
 
