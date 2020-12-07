@@ -8,9 +8,9 @@ I am a Plumber of Data Engineering and Cloud Computing :cloud:  :wink:
  
  :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
  
- 👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
+ 👯 I’m looking to collaborate for a helping in building Data Pipelines and Cloud Infrastructures.
  
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
+ 🤔 I’m looking for Cloud Security related full time positions.
  
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
 
