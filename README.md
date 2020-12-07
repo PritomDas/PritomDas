@@ -61,7 +61,9 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 [<img align="left" alt="PritomDas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="PritomDas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br/>
+
 Let's connect 👨‍💻 and forge the future together.😁✌
+
 ---
 
 [website]: https://pritom.uwu.ai/
