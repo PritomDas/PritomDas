@@ -24,7 +24,7 @@ I am a Plumber of Data Engineering and Cloud Computing :cloud:  :wink:
 
 #### Research work:
 
-- On the Learning Machine with Amplificatory Neuron in Complex Domain 
+- Retinal based Automated Healthcare Framework via Deep Learning
   - [Paper](https://ieeexplore.ieee.org/document/8752994)
   - [International Conference on Green Computing and Internet of Things (ICGCIoT)](https://ieeexplore.ieee.org/xpl/conhome/8743504/proceeding) 
   - DOI: https://doi.org/10.1109/ICGCIoT.2018.8752994 
