@@ -1,14 +1,12 @@
 <h1 align="center"> I'm Pritom</h1>
 <h3 align="center">My high Information Gain may Inspire your Decision Tree!</h3>
 
-<p align="center">
-
-<a href="https://medium.com/@aryanc55" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aryanc55" height="20" width="20" /></a>
-<a href="https://www.reddit.com/user/the_real_chaudhary/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.0.1/icons/reddit.svg"  alt="the_real_chaudhary" height="20" width="20"/></a>
-<a href="https://scholar.google.co.uk/citations?user=SqBITcUAAAAJ&hl=en" target="blank"><img align="center" src="https://www.jsdelivr.com/package/npm/dustjs-linkedin"  alt="aryan's google scholor" height="20" width="20"/></a>
-</p>
-
-
+### You can find in me in the web 🌍
+[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanc55" alt="aryanc55" /> </p>
