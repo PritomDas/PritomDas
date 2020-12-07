@@ -12,10 +12,10 @@ I am a Plumber of Data Engineering and Cloud Computing :cloud:  :wink:
  
  🤔 I’m looking for Cloud Security related full time positions.
  
- 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
+ 💬 Ask me about Leadership, Data Engineering, Cloud, Data Visualization and any Tech-related stuff.
 
 
-![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/PritomDas)  <img src="https://img.shields.io/github/followers/PritomDas?label=Follow" style=" float:left, margin-right:10px" />
 
 
 ---
