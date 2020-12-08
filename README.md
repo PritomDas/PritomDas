@@ -9,7 +9,7 @@ I am a Plumber of Data Engineering and Cloud Computing :cloud:  :wink:
  🌱 I’m currently preparing for AWS Solutions Architect and CompTia Security+
  
 
- 👯 I’m looking to collaborate for a helping in building Data Pipelines and Cloud Infrastructures.
+ 👯 I’m looking to collaborate for helping to build Data Pipelines and Cloud Infrastructures.
  
  🤔 I’m looking for Cloud Security related full time positions.
  
