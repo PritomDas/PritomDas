@@ -6,7 +6,7 @@ I am a Plumber of Data Engineering and Cloud Computing :cloud:  :wink:
  
  🔭 I’m planning for a Project **Resume and Interview Scheduling Chatbot**.
  
- 🌱 I’m currently preparing for AWS Solutions Architect and CompTia Security+
+ 🌱 I’m currently preparing for AWS Solutions Architect Professional and CompTia Security+
  
 
  👯 I’m looking to collaborate for helping to build Data Pipelines and Cloud Infrastructures.
