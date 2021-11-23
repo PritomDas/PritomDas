@@ -4,14 +4,14 @@ I am a Plumber of Data Engineering and Cloud Computing :cloud:  :wink:
 
 ---
  
- 🔭 I’m planning for a Project **Resume and Interview Scheduling Chatbot**.
+ 🔭 I’m currently working in Microsoft as **Azure Escalation Engineer** and earlier I was working in GPR as **Cloud Platform Engineer**.
  
- 🌱 I’m currently preparing for AWS Solutions Architect Professional and CompTia Security+
+ 🌱 I’m currently preparing for Azure Administrator Certification.
  
 
  👯 I’m looking to collaborate for helping to build Data Pipelines and Cloud Infrastructures.
  
- 🤔 I’m looking for Cloud Security related full time positions.
+ 🤔 I’m looking for Cloud Security book recommendations to read!
  
  💬 Ask me about Leadership, Data Engineering, Cloud, Data Visualization and any Tech-related stuff.
 
