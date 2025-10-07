@@ -1,61 +1,33 @@
-<h1 align="center"> 👋, I'm Pritom</h1>
-<h3 align="center">My high Information Gain may Inspire your Decision Tree!</h3>
-I am a Plumber of Data Engineering and Cloud Computing :cloud:  :wink:
+# <a href="https://www.linkedin.com/in/jimmy/">Jimmy Robinson</a>'s IT and Cybersecurity Project Portfolio 🔐
 
----
- 
- 🔭 I’m currently working in Microsoft as **Azure Escalation Engineer** and earlier I was working in GPR as **Cloud Platform Engineer**.
- 
- 🌱 I’m currently preparing for Azure Administrator Certification.
- 
-
- 👯 I’m looking to collaborate for helping to build Data Pipelines and Cloud Infrastructures.
- 
- 🤔 I’m looking for Cloud Security book recommendations to read!
- 
- 💬 Ask me about Leadership, Data Engineering, Cloud, Data Visualization and any Tech-related stuff.
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
-![Profile views](https://gpvc.arturio.dev/PritomDas)  <img src="https://img.shields.io/github/followers/PritomDas?label=Follow" style=" float:left, margin-right:10px" />
+## ⚠️ Vulnerability Management Projects
 
+- **[Simple YouTube Vulnerability Management Demo with Tenable](https://github.com/joshmadakor0/Win10-Vulnerability-Management-YouTube)**
+- **[Vulnerability Management Program Implementation](https://github.com/joshmadakor0/vulnerability-management-program)**
+- **[STIG Implementations (PowerShell)](https://github.com/joshmadakor0/stig-implementations)**
 
----
+## 🚨 Threat Hunting and Security Operations
 
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
-#### Research work:
+<hr/>
 
-- Retinal based Automated Healthcare Framework via Deep Learning
-  - [Paper](https://ieeexplore.ieee.org/document/8752994)
-  - [International Conference on Green Computing and Internet of Things (ICGCIoT)](https://ieeexplore.ieee.org/xpl/conhome/8743504/proceeding) 
-  - DOI: https://doi.org/10.1109/ICGCIoT.2018.8752994 
+## 🤳 Connect With Me
 
----
+[<img align="left" alt="jimmy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="jimmy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="jimmy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jimmy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PritomDas&show_icons=true&hide_border=true)
+[twitter]: https://twitter.com/jimmy
+[youtube]: https://www.youtube.com/c/jimmy
+[instagram]: https://www.instagram.com/jimmy
+[linkedin]: https://linkedin.com/in/jimmy
 
----
-
-
-### You can find in me in the web 🌍
-[<img align="left" alt="PritomDas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="PritomDas | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="PritomDas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="PritomDas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br/>
-
-
----
-
-[website]: https://pritom.uwu.ai/
-[instagram]: https://www.instagram.com/yours_truly_pritom/
-[linkedin]: https://www.linkedin.com/in/you-found-pritom/
-[medium]: https://medium.com/@das.pritom175
-
-#### My Projects:
-<p align="center">
-<b>Already Pinned Down for you sire!</b></br>
-<img alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif">
-</p>
-
-
-
+<!--
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
+-->
