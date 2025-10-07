@@ -9,10 +9,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Management Program Implementation](https://github.com/joshmadakor0/vulnerability-management-program)**
 - **[STIG Implementations (PowerShell)](https://github.com/joshmadakor0/stig-implementations)**
 
+<!--
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
-
+-->
 <hr/>
 
 ## 🤳 Connect With Me
