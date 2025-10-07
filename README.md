@@ -32,3 +32,37 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
+![Profile views](https://gpvc.arturio.dev/PritomDas)  <img src="https://img.shields.io/github/followers/PritomDas?label=Follow" style=" float:left, margin-right:10px" />
+
+
+---
+
+
+#### Research work:
+
+- Retinal based Automated Healthcare Framework via Deep Learning
+  - [Paper](https://ieeexplore.ieee.org/document/8752994)
+  - [International Conference on Green Computing and Internet of Things (ICGCIoT)](https://ieeexplore.ieee.org/xpl/conhome/8743504/proceeding) 
+  - DOI: https://doi.org/10.1109/ICGCIoT.2018.8752994 
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PritomDas&show_icons=true&hide_border=true)
+
+---
+
+
+### You can find in me in the web 🌍
+[<img align="left" alt="PritomDas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="PritomDas | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="PritomDas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="PritomDas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br/>
+
+
+---
+
+[website]: https://pritom.uwu.ai/
+[instagram]: https://www.instagram.com/yours_truly_pritom/
+[linkedin]: https://www.linkedin.com/in/you-found-pritom/
+[medium]: https://medium.com/@das.pritom175
