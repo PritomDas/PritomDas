@@ -5,9 +5,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Simple YouTube Vulnerability Management Demo with Tenable](https://github.com/joshmadakor0/Win10-Vulnerability-Management-YouTube)**
-- **[Vulnerability Management Program Implementation](https://github.com/joshmadakor0/vulnerability-management-program)**
-- **[STIG Implementations (PowerShell)](https://github.com/joshmadakor0/stig-implementations)**
+- **[Vulnerability Management Program Implementation](https://github.com/PritomDas/enterprise-vulnerability-management-with-tenable/tree/main)**
+- **[STIG Implementations (PowerShell)](https://github.com/PritomDas/enterprise-vulnerability-management-with-tenable/tree/main/automation%20scripts)**
 
 <!--
 ## 🚨 Threat Hunting and Security Operations
