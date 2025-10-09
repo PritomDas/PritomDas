@@ -44,3 +44,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [instagram]: https://www.instagram.com/yours_truly_pritom/
 [linkedin]: https://www.linkedin.com/in/you-found-pritom/
 [medium]: https://medium.com/@das.pritom175
+
+#### My Other Fun Projects:
+<p align="center">
+<b>Already Pinned Down for you sire!</b></br>
+<img alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif">
+</p>
