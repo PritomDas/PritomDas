@@ -23,7 +23,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ---
 
-// ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PritomDas&show_icons=true&hide_border=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PritomDas&show_icons=true&hide_border=true) ->
 
 ---
 
