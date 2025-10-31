@@ -8,7 +8,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Management Program Implementation](https://github.com/PritomDas/enterprise-vulnerability-management-with-tenable/tree/main)**
 - **[STIG Implementations (PowerShell)](https://github.com/PritomDas/enterprise-vulnerability-management-with-tenable/tree/main/automation%20scripts)**
 
-<!--
+
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
